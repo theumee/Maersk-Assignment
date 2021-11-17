@@ -22,7 +22,7 @@ document.querySelector("#reg").addEventListener('click',(e) => {
 
     alert("User Registered Successfully");
 
-    window.location.href ="/src/index.html";
+    window.location.href ="/index.html";
 }
 );
 
